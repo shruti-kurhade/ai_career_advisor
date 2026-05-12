@@ -5,7 +5,7 @@ An intelligent AI-powered Career Recommendation System that suggests suitable ca
 ---
 
 ## 🚀 Live Demo
-https://ai-career-advisor-r111.onrender.com
+https://ai-career-advisor-4u91.onrender.com
 
 ---
 
